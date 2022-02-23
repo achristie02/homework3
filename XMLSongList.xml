@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<songs>
+    <heading>Set List </heading>
+    <song>
+        <title>Title : m y . l i f e</title>
+        <artist>Artist : J. Cole</artist>
+        <genre>Genre : Hip-Hop/Rap</genre>
+        <year>Year Released : 2021</year>
+    </song>
+    <song>
+        <title>Title : Hood Rich</title>
+        <artist>Artist : Lil Tjay</artist>
+        <genre>Genre : Hip-Hop/Rap</genre>
+        <year>Year Released : 2021</year>
+    </song>
+    <song>
+        <title>Title : Love Sosa</title>
+        <artist>Artist : Chief Keef</artist>
+        <genre>Genre : Hip-Hop/Rap</genre>
+        <year>Year Released : 2012</year>
+    </song>
+    <song>
+        <title>Title : Come On Eileen</title>
+        <artist>Artist : Dexys Midnight Runners</artist>
+        <genre>Genre : Folk, Pop</genre>
+        <year>Year Released : 1982</year>
+    </song>
+    <song>
+        <title>Title : Lean On Me</title>
+        <artist>Artist : Bill Withers</artist>
+        <genre>Genre : Funk</genre>
+        <year>Year Released : 1972</year>
+    </song>
+    <song>
+        <title>Title : Rocket Man</title>
+        <artist>Artist : Elton John</artist>
+        <genre>Genre : Soft rock, Folk, Alternative/Indie</genre>
+        <year>Year Released : 1972</year>
+    </song>
+    <song>
+        <title>Title : Don't Matter</title>
+        <artist>Artist : Akon</artist>
+        <genre>Genre : R and B/Soul</genre>
+        <year>Year Released : 2006</year>
+    </song>
+    <song>
+        <title>Title : Roses</title>
+        <artist>Artist : Outkast</artist>
+        <genre>Genre : Hip-Hop/Rap</genre>
+        <year>Year Released : 2003</year>
+    </song>
+    <song>
+        <title>Title : Ms. Jackson</title>
+        <artist>Artist : Outkast</artist>
+        <genre>Genre : Hip-Hop/Rap</genre>
+        <year>Year Released : 2000</year>
+    </song>
+    <song>
+        <title>Title : Work Out</title>
+        <artist>Artist : J. Cole</artist>
+        <genre>Genre : Hip-Hop/Rap, R and B/Soul</genre>
+        <year>Year Released : 2011</year>
+    </song>
+</songs>
